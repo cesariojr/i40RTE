@@ -2,4 +2,4 @@
 
 Apresentação em PDF e código NodeRED usado na demonstração da arquitetura abaixo:
 
-![alt text](https://github.com/cesariojr/i40RTE/blob/master/arquiteturaRTE.JPG)
+![alt text](https://github.com/cesariojr/i40RTE/blob/master/arquiteturaRTE.png)
